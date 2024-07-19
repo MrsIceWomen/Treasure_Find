@@ -1,0 +1,35 @@
+INFO:root:Player chose coordinates: (1, 1).
+INFO:root:Clue: Cold
+INFO:root:Player chose coordinates: (3, 3).
+INFO:root:Clue: Hot
+INFO:root:Player chose coordinates: (4, 4).
+INFO:root:Clue: Very hot
+INFO:root:Player chose coordinates: (5, 5).
+INFO:root:Clue: Very hot
+INFO:root:Player chose coordinates: (4, 5).
+INFO:root:Clue: Hot
+INFO:root:Player chose coordinates: (5, 4).
+INFO:root:Player chose coordinates: (1, 1).
+INFO:root:Clue: Warm
+INFO:root:Player chose coordinates: (5, 5).
+INFO:root:Clue: Warm!
+
+INFO:root:Player chose coordinates: (7, 7).
+INFO:root:Clue: Warm!
+
+INFO:root:Player chose coordinates: (6, 6).
+INFO:root:Clue: Warm!
+
+INFO:root:Player chose coordinates: (5, 7).
+INFO:root:Clue: Hot!
+
+INFO:root:Player chose coordinates: (7, 9).
+INFO:root:Clue: Hot!
+
+INFO:root:Player chose coordinates: (6, 8).
+INFO:root:Clue: Hot!
+
+INFO:root:Player chose coordinates: (8, 8).
+INFO:root:Clue: Warm!
+
+INFO:root:Player chose coordinates: (5, 9).
